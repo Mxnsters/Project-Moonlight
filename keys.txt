@@ -1,1 +1,1 @@
-keys = ["test", "test2", "test3"
+keys = ["test", "test2", "test3"]
